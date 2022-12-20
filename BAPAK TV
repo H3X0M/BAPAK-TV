@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
+#EXTINF:-1,TVN Movie
+http://210.210.155.35:80/dr9445/h/h21/01.m3u8
+#EXTINF:-1,SCTV
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1,INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
