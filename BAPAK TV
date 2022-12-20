@@ -3,169 +3,169 @@
 #EXT-X-TARGETDURATION:3
 #EXT-X-MEDIA-SEQUENCE:22384
 #EXTINF:-1,Dens Play
-http://rr3.dens.tv/s/s101/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DensPlay
+http://rr3.dens.tv/s/s101/live.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DensPlay
 
 #EXTINF:-1,Dens Learning Knowledge
-http://rr3.dens.tv/s/s36/S4/mnf.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Dens_Learning_n_Knowledge
+http://rr3.dens.tv/s/s36/S4/mnf.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Dens_Learning_n_Knowledge
 
 #EXTINF:-1,Dens Showbiz
-http://rr3.dens.tv/s/s35/S4/mnf.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Dens_ShowBiz
+http://rr3.dens.tv/s/s35/S4/mnf.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Dens_ShowBiz
 
 #EXTINF:-1,Metro tv
-http://rr.dens.tv/h/h12/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Metro_TV
+http://rr.dens.tv/h/h12/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Metro_TV
 
 #EXTINF:-1,TV One
-http://rr2.dens.tv/s/s105/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvOne
+http://rr2.dens.tv/s/s105/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvOne
 
 #EXTINF:-1,Kompas tv
-http://rr2.dens.tv/s/s104/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Kompas_TV
+http://rr2.dens.tv/s/s104/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Kompas_TV
 
 #EXTINF:-1,SCTV
-http://rr2.dens.tv/s/s03/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=SCTV
+http://rr2.dens.tv/s/s03/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=SCTV
 
 #EXTINF:-1,Indosiar
 http://rr2.dens.tv/s/s04/01.m3u8
 
 #EXTINF:-1,Trans tv
-http://rr2.dens.tv/s/s05/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Trans_TV
+http://rr2.dens.tv/s/s05/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Trans_TV
 
 #EXTINF:-1,Trans7
-http://rr.dens.tv/h/h11/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Trans7
+http://rr.dens.tv/h/h11/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Trans7
 
 #EXTINF:-1,Net tv
-http://rr2.dens.tv/s/s08/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=NET.
+http://rr2.dens.tv/s/s08/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=NET.
 
 #EXTINF:-1,ANTV
-http://rr2.dens.tv/s/s07/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=antv
+http://rr2.dens.tv/s/s07/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=antv
 
 #EXTINF:-1,Elshinta tv
-http://rr2.dens.tv/s/s10/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Elshinta_TV
+http://rr2.dens.tv/s/s10/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Elshinta_TV
 
 #EXTINF:-1,Rodja tv
-http://rr2.dens.tv/s/s14/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=RodjaTV
+http://rr2.dens.tv/s/s14/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=RodjaTV
 
 #EXTINF:-1,Daai tv
-http://rr2.dens.tv/s/s13/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DAAI_TV
+http://rr2.dens.tv/s/s13/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DAAI_TV
 
 #EXTINF:-1,U Channel
-http://rr2.dens.tv/s/s41/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=U-Channel
+http://rr2.dens.tv/s/s41/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=U-Channel
 
 #EXTINF:-1,TVRI
-http://rr2.dens.tv/s/s11/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TVRI
+http://rr2.dens.tv/s/s11/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TVRI
 
 #EXTINF:-1,TVRI Sport
-http://rr2.dens.tv/s/s107/02.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TVRI_Sport_HD
+http://rr2.dens.tv/s/s107/02.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TVRI_Sport_HD
 
 #EXTINF:-1,EGG network
-http://rr.dens.tv/h/h22/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=eGG_HD
+http://rr.dens.tv/h/h22/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=eGG_HD
 
 #EXTINF:-1,ANI plus
-http://rr1.dens.tv/h/h02/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ANIPLUS_HD
+http://rr1.dens.tv/h/h02/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ANIPLUS_HD
 
 #EXTINF:-1,Animax
-http://rr1.dens.tv/h/h144/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Animax_HD
+http://rr1.dens.tv/h/h144/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Animax_HD
 
 #EXTINF:-1,My Kidz
-http://rr.dens.tv/h/h191/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Kidz_HD
+http://rr.dens.tv/h/h191/index.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Kidz_HD
 
 #EXTINF:-1,Hits
-http://rr1.dens.tv/h/h37/02.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=HITS_HD
+http://rr1.dens.tv/h/h37/02.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=HITS_HD
 
 #EXTINF:-1,AXN
-http://rr1.dens.tv/h/h141/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=AXN_HD
+http://rr1.dens.tv/h/h141/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=AXN_HD
 
 #EXTINF:-1,Rock entertainment
-http://rr1.dens.tv/h/h16/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Entertainment_HD
+http://rr1.dens.tv/h/h16/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Entertainment_HD
 
 #EXTINF:-1,Rock extreme
-http://rr1.dens.tv/h/h15/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Extreme_HD
+http://rr1.dens.tv/h/h15/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Extreme_HD
 
 #EXTINF:-1,MY Cinema
-http://rr3.dens.tv/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
+http://rr3.dens.tv/h/h192/index.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
 
 #EXTINF:-1,ZEE Bioskop
-http://rr2.dens.tv/s/s32/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Zee_Bioskop
+http://rr2.dens.tv/s/s32/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Zee_Bioskop
 
 #EXTINF:-1,My Cinema Asia
-http://rr3.dens.tv/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia_Trial-
+http://rr3.dens.tv/h/h193/index.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia_Trial-
 
 #EXTINF:-1,TVN Movies
-http://rr1.dens.tv/h/h21/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvN_Movies_HD
+http://rr1.dens.tv/h/h21/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvN_Movies_HD
 
 #EXTINF:-1,My Cinema Europe
-http://rr.dens.tv/h/h18/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Europe_HD
+http://rr.dens.tv/h/h18/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Europe_HD
 
 #EXTINF:-1,Cinema World
-http://rr1.dens.tv/h/h04/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CinemaWorld_HD
+http://rr1.dens.tv/h/h04/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CinemaWorld_HD
 
 #EXTINF:-1,THRILL
-http://rr2.dens.tv/s/s34/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Thrill
+http://rr2.dens.tv/s/s34/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Thrill
 
 #EXTINF:-1,KIX
-http://rr1.dens.tv/h/h07/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=KIX_HD
+http://rr1.dens.tv/h/h07/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=KIX_HD
 
 #EXTINF:-1,GEM
-http://rr.dens.tv/h/h19/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=GEM_HD
+http://rr.dens.tv/h/h19/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=GEM_HD
 
 #EXTINF:-1,K plus
-http://rr.dens.tv/h/h08/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=K-PLUS_HD
+http://rr.dens.tv/h/h08/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=K-PLUS_HD
 
 #EXTINF:-1,ONE
-http://rr.dens.tv/h/h143/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ONE_HD
+http://rr.dens.tv/h/h143/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ONE_HD
 
 #EXTINF:-1,TVN
-http://rr1.dens.tv/h/h20/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvN_HD
+http://rr1.dens.tv/h/h20/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvN_HD
 
 #EXTINF:-1,TV5monde style
-http://rr1.dens.tv/h/h01/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TV5MONDE_Style_HD
+http://rr1.dens.tv/h/h01/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TV5MONDE_Style_HD
 
 #EXTINF:-1,Fight sports
-http://rr1.dens.tv/h/h05/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=FIGHT_SPORTS_HD
+http://rr1.dens.tv/h/h05/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=FIGHT_SPORTS_HD
 
 #EXTINF:-1,Motorvision tv
-http://rr.dens.tv/h/h09/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Motorvision_TV_HD
+http://rr.dens.tv/h/h09/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Motorvision_TV_HD
 
 #EXTINF:-1,Golf
-http://rr1.dens.tv/h/h10/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=GOLF_Channel_HD__Trial-
+http://rr1.dens.tv/h/h10/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=GOLF_Channel_HD__Trial-
 
 #EXTINF:-1,Bloomberg Tv
-http://rr1.dens.tv/h/h03/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Bloomberg_Television_HD
+http://rr1.dens.tv/h/h03/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Bloomberg_Television_HD
 
 #EXTINF:-1,CNA
-http://rr.dens.tv/h/h29/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CNA
+http://rr.dens.tv/h/h29/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CNA
 
 #EXTINF:-1,NHK world
-http://rr.dens.tv/h/h23/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=NHK_WORLD-JAPAN
+http://rr.dens.tv/h/h23/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=NHK_WORLD-JAPAN
 
 #EXTINF:-1,CCTV 4
-http://rr2.dens.tv/s/s19/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCTV-4
+http://rr2.dens.tv/s/s19/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCTV-4
 
 #EXTINF:-1,TRT world
-http://rr.dens.tv/h/h156/S4/mnf.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TRT_World
+http://rr.dens.tv/h/h156/S4/mnf.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TRT_World
 
 #EXTINF:-1,WION
-http://rr.dens.tv/h/h91/S4/mnf.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=WION
+http://rr.dens.tv/h/h91/S4/mnf.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=WION
 
 #EXTINF:-1,UA
-http://rr.dens.tv/h/h101/S4/mnf.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=UA%7CTV
+http://rr.dens.tv/h/h101/S4/mnf.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=UA%7CTV
 
 #EXTINF:-1,Al Jazeera
-http://rr2.dens.tv/s/s17/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Al_Jazeera_English
+http://rr2.dens.tv/s/s17/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Al_Jazeera_English
 
 #EXTINF:-1,France 24
-http://rr2.dens.tv/s/s22/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=France_24
+http://rr2.dens.tv/s/s22/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=France_24
 
 #EXTINF:-1,TV5 monde
-http://rr1.dens.tv/s/s24/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TV5MONDE_ASIE
+http://rr1.dens.tv/s/s24/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TV5MONDE_ASIE
 
 #EXTINF:-1,TBN
-http://rr2.dens.tv/s/s39/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TBN
+http://rr2.dens.tv/s/s39/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TBN
 
 #EXTINF:-1,CGTN documentary
-http://rr2.dens.tv/s/s20/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CGTN_Documentary
+http://rr2.dens.tv/s/s20/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CGTN_Documentary
 
 #EXTINF:-1,Quran tv
-http://rr2.dens.tv/s/s28/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Quran_TV
+http://rr2.dens.tv/s/s28/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Quran_TV
 
 #EXTINF:-1,Sunnah tv
-http://rr2.dens.tv/s/s27/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Sunna_TV
+http://rr2.dens.tv/s/s27/01.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Sunna_TV
