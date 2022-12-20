@@ -2,6 +2,18 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:3
 #EXT-X-MEDIA-SEQUENCE:22384
+#EXTINF:-1,MNCTV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://h-mnctv.rctiplus.id/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8?auth_key=1671568155-0-0-fddaa6effc2b1c9cb71b6b94660e95da
+#EXTINF:-1,RCTI+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rcti-linier.rctiplus.id/RCTI2022-avc1_3500000=8-mp4a_128000=2.m3u8
+#EXTINF:-1,GLOBAL TV+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://h-gtv.rctiplus.id/GTV2021.m3u8?auth_key=1671654800-0-0-72aa73791fb9975d91caab49e71378d4
+#EXTINF:-1,iNews+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d3o5yreltwquyt.cloudfront.net/INEWS2022-avc1_3500000=8-mp4a_128000=2.m3u8
 #EXTINF:-1,Dens Play
 http://210.210.155.37/session/b3dc1084-8098-11ed-aeaf-b82a72d63267/x6bnqe/s/s101/live.m3u8?app_type=mobile&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DensPlay
 #EXTINF:-1,Dens Learning Knowledge
