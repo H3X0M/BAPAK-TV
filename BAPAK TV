@@ -11,21 +11,18 @@ http://rr3.dens.tv/s/s36/S4/mnf.m3u8?app_type=mobile&userid=d2wt7qrx71e&tkn=W9EK
 #EXTINF:0 user-agent="ExoPlayerDemo/2.07.12 (Linux;Android 10) ExoPlayerLib/2.6.1", Dens Showbiz
 http://rr3.dens.tv/s/s35/S4/mnf.m3u8?app_type=mobile&userid=d2wt7qrx71e&tkn=W9EK8D7WQRM4QKTML7FQU62ZHS2G40RW&chname=Dens_ShowBiz
 
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,  like Gecko) Chrome/108.0.0.0 Safari/537.36", MNCTV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d33j155pv2xyba.cloudfront.net/MNCTV_2021-avc1_600000=5-mp4a_96000=2.m3u8
+#EXTINF:-1,ID | MNC TV
+http://daddyserver.com:8080/roi123/N0W4yF0VAn/64344
 
 #EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,  like Gecko) Chrome/108.0.0.0 Safari/537.36", RCTI+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rcti-linier.rctiplus.id/RCTI2022.m3u8
 
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,  like Gecko) Chrome/108.0.0.0 Safari/537.36", GLOBAL TV+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://h-gtv.rctiplus.id/GTV2021.m3u8?auth_key=1671654800-0-0-72aa73791fb9975d91caab49e71378d4
+#EXTINF:-1,ID | GTV HD
+http://daddyserver.com:8080/roi123/N0W4yF0VAn/64345
 
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,  like Gecko) Chrome/108.0.0.0 Safari/537.36", iNews+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d3o5yreltwquyt.cloudfront.net/INEWS2022-avc1_3500000=8-mp4a_128000=2.m3u8
+#EXTINF:-1,ID | iNewsⓧ
+http://daddyserver.com:8080/roi123/N0W4yF0VAn/13538
 
 #EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,  like Gecko) Chrome/108.0.0.0 Safari/537.36", CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1409851146_b384000_sleng.m3u8
