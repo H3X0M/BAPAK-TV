@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,  like Gecko) Chrome/108.0.0.0 Safari/537.36", RCTI+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index.m3u8
+
+#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,  like Gecko) Chrome/108.0.0.0 Safari/537.36", RCTI HD
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index_24.m3u8
+
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,  like Gecko) Chrome/108.0.0.0 Safari/537.36", Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,  like Gecko) Chrome/108.0.0.0 Safari/537.36", Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,  like Gecko) Chrome/108.0.0.0 Safari/537.36", Metro TV
+https://stream-03.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS6keiky6joOfHUDdquyAal-7dXCUDhtsyuzVN9jFHH77)/dm/3/x75p70w/d/live-2.m3u8
+
+#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,  like Gecko) Chrome/108.0.0.0 Safari/537.36", CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1409851146_b384000_sleng.m3u8
+
+#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,  like Gecko) Chrome/108.0.0.0 Safari/537.36", CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w867021312_b384000_sleng.m3u8
