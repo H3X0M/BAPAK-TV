@@ -1,4 +1,6 @@
 #EXTM3U8
-#EXTINF:-1,RCTI+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="RCTI.Id" tvg-logo="https://cdn.ksa.my.id/rcti.png" group-title="National TV",RCTI+ KU
+#EXTVLCOPT:http-referrer=https://www.rctiplus.id/
 https://d2s97x1gdf3esf.cloudfront.net/out/v1/85ee3e8db17648dbb8877409d12fa1ee/index.mpd
