@@ -1,4 +1,4 @@
 #EXTM3U8
-#EXTINF:-1,MNCTV
+#EXTINF:-1,RCTI+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://h-mnctv.rctiplus.id/MNCTV_2021-avc1_450000=4-mp4a_96000=2.m3u8?auth_key=1671567779-0-0-af95621b0f5bc1ccfebe8240eb1e3911
+https://d2s97x1gdf3esf.cloudfront.net/out/v1/85ee3e8db17648dbb8877409d12fa1ee/index.mpd
