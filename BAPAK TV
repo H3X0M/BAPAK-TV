@@ -11,22 +11,9 @@ http://rr3.dens.tv/s/s36/S4/mnf.m3u8?app_type=mobile&userid=d2wt7qrx71e&tkn=W9EK
 #EXTINF:0 user-agent="ExoPlayerDemo/2.07.12 (Linux;Android 10) ExoPlayerLib/2.6.1", Dens Showbiz
 http://rr3.dens.tv/s/s35/S4/mnf.m3u8?app_type=mobile&userid=d2wt7qrx71e&tkn=W9EK8D7WQRM4QKTML7FQU62ZHS2G40RW&chname=Dens_ShowBiz
 
-#EXTINF:-1,ID | MNC TV
-http://daddyserver.com:8080/roi123/N0W4yF0VAn/64344
-
 #EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,  like Gecko) Chrome/108.0.0.0 Safari/537.36", RCTI+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index.m3u8
-
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,  like Gecko) Chrome/108.0.0.0 Safari/537.36", RCTI HD
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index_24.m3u8
-
-#EXTINF:-1,ID | GTV HD
-http://daddyserver.com:8080/roi123/N0W4yF0VAn/64345
-
-#EXTINF:-1,ID | iNewsⓧ
-http://daddyserver.com:8080/roi123/N0W4yF0VAn/13538
 
 #EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,  like Gecko) Chrome/108.0.0.0 Safari/537.36", CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1409851146_b384000_sleng.m3u8
